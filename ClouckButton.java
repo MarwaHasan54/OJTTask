@@ -155,7 +155,6 @@ public class ClouckButton implements Subject {
 			minute=00;
 			secound=02;
 		}
-
 	}
 
 }
